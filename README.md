@@ -6,6 +6,8 @@
 
 it is a one week project was created to be submitted as 1st task in my Udacity FWD Web-Development Schoolarship .
 
+Project requirements was only the node-server but I was having the time to built the front-end project and integrate them together.
+
 <details open ><summary> 
   
   ### Screen Shots
