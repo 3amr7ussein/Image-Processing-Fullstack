@@ -2,7 +2,7 @@
 
 ####
 
-**This is my first full stack application** , An image processing application build to apply some processes on image server-side, built with Node, Express, React, TypeScript and CSS. 
+**This is my first full stack application** , An image processing application build to apply some processes on image server-side, built with HTML, CSS, React, Node, Express & TypeScript . 
 
 it is a one week project was created to be submitted as 1st task in my Udacity FWD Web-Development Schoolarship .
 
