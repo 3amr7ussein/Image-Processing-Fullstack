@@ -1,8 +1,12 @@
-# FWD-Image-Processing
+# Image Processing Fullstack Application (Mobile-Responsive)
 
-This is a full stack application , created using React-Client Side & Express/Node-Server Side .
+####
 
-# Run and use server code (Backend)
+An image processing application build to apply some processes on image server-side, built with Node, Express, React, TypeScript and CSS. 
+
+
+
+## How to run Server-Side (Backend)
 
 1- Download and unzip the project directory.
 
@@ -16,18 +20,18 @@ run `npm run format` , to format code.
 
 run `npm run lint` , to Find problems in code
 
-## API Endpoints
+### API Endpoints
 
 | HTTP Verbs | Endpoints             | Action                                                                         |
 | ---------- | --------------------- | ------------------------------------------------------------------------------ |
 | GET        | /api/images/all       | To retrive list of file in Full directory as an Array                          |
 | GET        | /api/images/:filename | To retrive single image by file name                                           |
 | GET        | /api/images?          | To retrive a resized image by passing query parameters (filename,width,height) |
-| POST       | /api/upload           | To Upload jpg image to Full directory                                          |
+| POST       | /api/upload           | To upload jpg image to /full directory                                          |
 
-# Now Let Run Client Code (Frontend)
+## Now Lets Run Client-Side (Frontend)
 
-## Keep the server running and open new terminal
+### Keep the server running and open new terminal
 
 1- `cd client` and then `npm run install` ,to install the required packges to run client code.
 2- run `npm start` , and visit to http://localhost:3000
