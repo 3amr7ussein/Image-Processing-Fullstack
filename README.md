@@ -13,7 +13,7 @@ it is a one week project was created to be submitted as 1st task in my Udacity F
   
   Desktop | Mobile
 -|-
-<img src="https://github.com/3amr7ussein/Image-Processing-Fullstack/blob/main/server/assets/full/Image-Resizing-Desktop.jpg" width='500'/> | <img width="150" src="https://user-images.githubusercontent.com/34787413/207199430-3a157ae0-e7c3-46eb-a4ab-dbd49f762faa.jpg"/>
+<img src="https://github.com/3amr7ussein/Image-Processing-Fullstack/blob/main/server/assets/full/Image-Resizing-Desktop.jpg" width='700'/> | <img src="https://user-images.githubusercontent.com/34787413/207199430-3a157ae0-e7c3-46eb-a4ab-dbd49f762faa.jpg" width="200" />
 </details  >
 
   <details ><summary>  
