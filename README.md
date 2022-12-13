@@ -1,4 +1,4 @@
-# Image Processing Fullstack Application (Mobile-Responsive)
+## Image Processing Fullstack Application (Mobile-Responsive)
 
 ####
 
