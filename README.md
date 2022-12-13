@@ -2,8 +2,11 @@
 
 ####
 
-An image processing application build to apply some processes on image server-side, built with Node, Express, React, TypeScript and CSS. 
-<details ><summary> 
+**This is my first full stack application** , An image processing application build to apply some processes on image server-side, built with Node, Express, React, TypeScript and CSS. 
+
+it is a one week project was created to be submitted as 1st task in my Udacity FWD Web-Development Schoolarship .
+
+<details open ><summary> 
   
   ### Screen Shots
   </summary>
@@ -13,7 +16,7 @@ An image processing application build to apply some processes on image server-si
 <img src="https://github.com/3amr7ussein/Image-Processing-Fullstack/blob/main/server/assets/full/Image-Resizing-Desktop.jpg" width='500'/> | <img width="150" src="https://user-images.githubusercontent.com/34787413/207199430-3a157ae0-e7c3-46eb-a4ab-dbd49f762faa.jpg"/>
 </details  >
 
-  <details open><summary>  
+  <details ><summary>  
   
 ### How To Run Project
    </summary>  
