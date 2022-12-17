@@ -1,10 +1,17 @@
-## Image Processing Fullstack Application (Mobile-Responsive)
+<div float="left" align="middle"> 
+ 
+
+ #  Image Processing Fullstack App 
+ 
+ <font size= "50">(Mobile-Responsive)</font>
+
+</div>
 
 ####
 
-**This is my first full stack application** , An image processing application build to apply some processes on image server-side, built with HTML, CSS, React, Node, Express & TypeScript . 
+**This is my first full stack application** , An image processing application build to apply some processes on image server-side, built with   React, CSS, Node, Express & TypeScript . 
 
-it is a one week project was created to be submitted as 1st task in my Udacity FWD Web-Development Schoolarship .
+it is a one week project was created to be submitted as 1st task in my Udacity FWD Web-Development Scholarship .
 
 Project requirements was only the node-server but I was having the time to built the front-end project and integrate them together.
 <details ><summary> 
